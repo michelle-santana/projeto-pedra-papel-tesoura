@@ -1,0 +1,56 @@
+body {
+  background-color: rgb(51, 47, 47);
+  font-family:Arial, Helvetica, sans-serif 
+  
+}
+
+.myButton {
+  text-align: center;
+  
+} 
+
+.myButton button{
+  margin-right: 50px;
+  background-color:rgb(250, 218, 76);
+  border-style: solid;
+  border-width: 5px;
+  border-color: rgb(255, 255, 255);
+  width: 200px;
+  height: 200px;
+  margin-top: 100px;
+  font-weight: bold;
+  font-size: 15px;
+  color: white;
+  
+}
+
+  h1 {
+    text-align: center;
+    color: rgb(78, 75, 75);
+    margin-top: 40px;
+    border: none;
+    box-shadow: 5px 5px 5px 5px #464444;
+    background-color: rgb(255, 255, 255);
+    width: 50%;
+    margin-left: 300px; 
+  }
+
+  .myScore {
+    display: flex;
+    color: white;
+    margin-top: 50px;
+    margin-left: 70px;
+
+  }
+
+
+  .myScore a {
+    float:left;
+    margin-left:200px;
+    font-size: px;
+    font-weight: bold;
+    margin-right: 40px;
+    color: white;
+    
+  }
+  
